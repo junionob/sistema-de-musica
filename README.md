@@ -7,4 +7,5 @@ Para rodar esse projeto na sua máquina, por favor digite:
 ```
 npm install react
 ```
-                                
+                 
+  <p>1 . Documento feito com o curso da Alura de Git e GitHub; </p>
